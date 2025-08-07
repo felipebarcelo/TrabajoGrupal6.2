@@ -8,6 +8,14 @@ body {
     height: 400px;
 }
 
+h1{
+    color: rgb(39, 161, 110);
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
+
 .link-button {
     text-decoration: none;
     color: black;
