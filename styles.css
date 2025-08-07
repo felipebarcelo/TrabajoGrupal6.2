@@ -1,10 +1,10 @@
 body {
-    background-color: rgb(255, 255, 165);
+    background-color: rgb(94, 177, 255);
 }
 
 .image{
-    border: 5px solid green;
-    border-radius: 10px;
+    border: 5px dotted rgb(107, 238, 183);
+    border-radius: 15px;
     height: 400px;
 }
 
