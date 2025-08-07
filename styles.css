@@ -1,5 +1,6 @@
 body {
     background-color: rgb(94, 177, 255);
+  font-family: karla;
 }
 
 .image{
@@ -25,3 +26,4 @@ h1{
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
+
